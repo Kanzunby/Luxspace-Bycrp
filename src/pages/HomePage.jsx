@@ -17,7 +17,6 @@ export default function HomePage() {
       <Clients />
       <Sitemap />
       <Footer />
-      <a href="https://www.youtube.com/">youtube</a>
     </Documents>
   );
 }
